@@ -1,0 +1,16 @@
+D:\DEV\Projetosgit\Csharp\CasoSwitch\bin\Debug\net5.0\CasoSwitch.exe
+D:\DEV\Projetosgit\Csharp\CasoSwitch\bin\Debug\net5.0\CasoSwitch.deps.json
+D:\DEV\Projetosgit\Csharp\CasoSwitch\bin\Debug\net5.0\CasoSwitch.runtimeconfig.json
+D:\DEV\Projetosgit\Csharp\CasoSwitch\bin\Debug\net5.0\CasoSwitch.runtimeconfig.dev.json
+D:\DEV\Projetosgit\Csharp\CasoSwitch\bin\Debug\net5.0\CasoSwitch.dll
+D:\DEV\Projetosgit\Csharp\CasoSwitch\bin\Debug\net5.0\ref\CasoSwitch.dll
+D:\DEV\Projetosgit\Csharp\CasoSwitch\bin\Debug\net5.0\CasoSwitch.pdb
+D:\DEV\Projetosgit\Csharp\CasoSwitch\obj\Debug\net5.0\CasoSwitch.csproj.AssemblyReference.cache
+D:\DEV\Projetosgit\Csharp\CasoSwitch\obj\Debug\net5.0\CasoSwitch.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Projetosgit\Csharp\CasoSwitch\obj\Debug\net5.0\CasoSwitch.AssemblyInfoInputs.cache
+D:\DEV\Projetosgit\Csharp\CasoSwitch\obj\Debug\net5.0\CasoSwitch.AssemblyInfo.cs
+D:\DEV\Projetosgit\Csharp\CasoSwitch\obj\Debug\net5.0\CasoSwitch.csproj.CoreCompileInputs.cache
+D:\DEV\Projetosgit\Csharp\CasoSwitch\obj\Debug\net5.0\CasoSwitch.dll
+D:\DEV\Projetosgit\Csharp\CasoSwitch\obj\Debug\net5.0\ref\CasoSwitch.dll
+D:\DEV\Projetosgit\Csharp\CasoSwitch\obj\Debug\net5.0\CasoSwitch.pdb
+D:\DEV\Projetosgit\Csharp\CasoSwitch\obj\Debug\net5.0\CasoSwitch.genruntimeconfig.cache

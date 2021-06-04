@@ -1,0 +1,16 @@
+D:\DEV\Projetosgit\Csharp\MenorTroco\bin\Debug\net5.0\MenorTroco.exe
+D:\DEV\Projetosgit\Csharp\MenorTroco\bin\Debug\net5.0\MenorTroco.deps.json
+D:\DEV\Projetosgit\Csharp\MenorTroco\bin\Debug\net5.0\MenorTroco.runtimeconfig.json
+D:\DEV\Projetosgit\Csharp\MenorTroco\bin\Debug\net5.0\MenorTroco.runtimeconfig.dev.json
+D:\DEV\Projetosgit\Csharp\MenorTroco\bin\Debug\net5.0\MenorTroco.dll
+D:\DEV\Projetosgit\Csharp\MenorTroco\bin\Debug\net5.0\ref\MenorTroco.dll
+D:\DEV\Projetosgit\Csharp\MenorTroco\bin\Debug\net5.0\MenorTroco.pdb
+D:\DEV\Projetosgit\Csharp\MenorTroco\obj\Debug\net5.0\MenorTroco.csproj.AssemblyReference.cache
+D:\DEV\Projetosgit\Csharp\MenorTroco\obj\Debug\net5.0\MenorTroco.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Projetosgit\Csharp\MenorTroco\obj\Debug\net5.0\MenorTroco.AssemblyInfoInputs.cache
+D:\DEV\Projetosgit\Csharp\MenorTroco\obj\Debug\net5.0\MenorTroco.AssemblyInfo.cs
+D:\DEV\Projetosgit\Csharp\MenorTroco\obj\Debug\net5.0\MenorTroco.csproj.CoreCompileInputs.cache
+D:\DEV\Projetosgit\Csharp\MenorTroco\obj\Debug\net5.0\MenorTroco.dll
+D:\DEV\Projetosgit\Csharp\MenorTroco\obj\Debug\net5.0\ref\MenorTroco.dll
+D:\DEV\Projetosgit\Csharp\MenorTroco\obj\Debug\net5.0\MenorTroco.pdb
+D:\DEV\Projetosgit\Csharp\MenorTroco\obj\Debug\net5.0\MenorTroco.genruntimeconfig.cache

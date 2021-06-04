@@ -1,0 +1,16 @@
+D:\DEV\Projetosgit\Csharp\CalcularConsumoMedio\bin\Debug\net5.0\CalcularConsumoMedio.exe
+D:\DEV\Projetosgit\Csharp\CalcularConsumoMedio\bin\Debug\net5.0\CalcularConsumoMedio.deps.json
+D:\DEV\Projetosgit\Csharp\CalcularConsumoMedio\bin\Debug\net5.0\CalcularConsumoMedio.runtimeconfig.json
+D:\DEV\Projetosgit\Csharp\CalcularConsumoMedio\bin\Debug\net5.0\CalcularConsumoMedio.runtimeconfig.dev.json
+D:\DEV\Projetosgit\Csharp\CalcularConsumoMedio\bin\Debug\net5.0\CalcularConsumoMedio.dll
+D:\DEV\Projetosgit\Csharp\CalcularConsumoMedio\bin\Debug\net5.0\ref\CalcularConsumoMedio.dll
+D:\DEV\Projetosgit\Csharp\CalcularConsumoMedio\bin\Debug\net5.0\CalcularConsumoMedio.pdb
+D:\DEV\Projetosgit\Csharp\CalcularConsumoMedio\obj\Debug\net5.0\CalcularConsumoMedio.csproj.AssemblyReference.cache
+D:\DEV\Projetosgit\Csharp\CalcularConsumoMedio\obj\Debug\net5.0\CalcularConsumoMedio.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Projetosgit\Csharp\CalcularConsumoMedio\obj\Debug\net5.0\CalcularConsumoMedio.AssemblyInfoInputs.cache
+D:\DEV\Projetosgit\Csharp\CalcularConsumoMedio\obj\Debug\net5.0\CalcularConsumoMedio.AssemblyInfo.cs
+D:\DEV\Projetosgit\Csharp\CalcularConsumoMedio\obj\Debug\net5.0\CalcularConsumoMedio.csproj.CoreCompileInputs.cache
+D:\DEV\Projetosgit\Csharp\CalcularConsumoMedio\obj\Debug\net5.0\CalcularConsumoMedio.dll
+D:\DEV\Projetosgit\Csharp\CalcularConsumoMedio\obj\Debug\net5.0\ref\CalcularConsumoMedio.dll
+D:\DEV\Projetosgit\Csharp\CalcularConsumoMedio\obj\Debug\net5.0\CalcularConsumoMedio.pdb
+D:\DEV\Projetosgit\Csharp\CalcularConsumoMedio\obj\Debug\net5.0\CalcularConsumoMedio.genruntimeconfig.cache
