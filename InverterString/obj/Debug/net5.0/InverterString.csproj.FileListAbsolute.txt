@@ -1,0 +1,16 @@
+D:\DEV\Projetosgit\Csharp\InverterString\obj\Debug\net5.0\InverterString.csproj.AssemblyReference.cache
+D:\DEV\Projetosgit\Csharp\InverterString\obj\Debug\net5.0\InverterString.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Projetosgit\Csharp\InverterString\obj\Debug\net5.0\InverterString.AssemblyInfoInputs.cache
+D:\DEV\Projetosgit\Csharp\InverterString\obj\Debug\net5.0\InverterString.AssemblyInfo.cs
+D:\DEV\Projetosgit\Csharp\InverterString\obj\Debug\net5.0\InverterString.csproj.CoreCompileInputs.cache
+D:\DEV\Projetosgit\Csharp\InverterString\bin\Debug\net5.0\InverterString.exe
+D:\DEV\Projetosgit\Csharp\InverterString\bin\Debug\net5.0\InverterString.deps.json
+D:\DEV\Projetosgit\Csharp\InverterString\bin\Debug\net5.0\InverterString.runtimeconfig.json
+D:\DEV\Projetosgit\Csharp\InverterString\bin\Debug\net5.0\InverterString.runtimeconfig.dev.json
+D:\DEV\Projetosgit\Csharp\InverterString\bin\Debug\net5.0\InverterString.dll
+D:\DEV\Projetosgit\Csharp\InverterString\bin\Debug\net5.0\ref\InverterString.dll
+D:\DEV\Projetosgit\Csharp\InverterString\bin\Debug\net5.0\InverterString.pdb
+D:\DEV\Projetosgit\Csharp\InverterString\obj\Debug\net5.0\InverterString.dll
+D:\DEV\Projetosgit\Csharp\InverterString\obj\Debug\net5.0\ref\InverterString.dll
+D:\DEV\Projetosgit\Csharp\InverterString\obj\Debug\net5.0\InverterString.pdb
+D:\DEV\Projetosgit\Csharp\InverterString\obj\Debug\net5.0\InverterString.genruntimeconfig.cache

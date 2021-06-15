@@ -1,0 +1,16 @@
+D:\DEV\Projetosgit\Csharp\Bazinga\bin\Debug\net5.0\Bazinga.exe
+D:\DEV\Projetosgit\Csharp\Bazinga\bin\Debug\net5.0\Bazinga.deps.json
+D:\DEV\Projetosgit\Csharp\Bazinga\bin\Debug\net5.0\Bazinga.runtimeconfig.json
+D:\DEV\Projetosgit\Csharp\Bazinga\bin\Debug\net5.0\Bazinga.runtimeconfig.dev.json
+D:\DEV\Projetosgit\Csharp\Bazinga\bin\Debug\net5.0\Bazinga.dll
+D:\DEV\Projetosgit\Csharp\Bazinga\bin\Debug\net5.0\ref\Bazinga.dll
+D:\DEV\Projetosgit\Csharp\Bazinga\bin\Debug\net5.0\Bazinga.pdb
+D:\DEV\Projetosgit\Csharp\Bazinga\obj\Debug\net5.0\Bazinga.csproj.AssemblyReference.cache
+D:\DEV\Projetosgit\Csharp\Bazinga\obj\Debug\net5.0\Bazinga.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Projetosgit\Csharp\Bazinga\obj\Debug\net5.0\Bazinga.AssemblyInfoInputs.cache
+D:\DEV\Projetosgit\Csharp\Bazinga\obj\Debug\net5.0\Bazinga.AssemblyInfo.cs
+D:\DEV\Projetosgit\Csharp\Bazinga\obj\Debug\net5.0\Bazinga.csproj.CoreCompileInputs.cache
+D:\DEV\Projetosgit\Csharp\Bazinga\obj\Debug\net5.0\Bazinga.dll
+D:\DEV\Projetosgit\Csharp\Bazinga\obj\Debug\net5.0\ref\Bazinga.dll
+D:\DEV\Projetosgit\Csharp\Bazinga\obj\Debug\net5.0\Bazinga.pdb
+D:\DEV\Projetosgit\Csharp\Bazinga\obj\Debug\net5.0\Bazinga.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\DEV\Projetosgit\Csharp\TempodeumEvento\bin\Debug\net5.0\TempodeumEvento.exe
+D:\DEV\Projetosgit\Csharp\TempodeumEvento\bin\Debug\net5.0\TempodeumEvento.deps.json
+D:\DEV\Projetosgit\Csharp\TempodeumEvento\bin\Debug\net5.0\TempodeumEvento.runtimeconfig.json
+D:\DEV\Projetosgit\Csharp\TempodeumEvento\bin\Debug\net5.0\TempodeumEvento.runtimeconfig.dev.json
+D:\DEV\Projetosgit\Csharp\TempodeumEvento\bin\Debug\net5.0\TempodeumEvento.dll
+D:\DEV\Projetosgit\Csharp\TempodeumEvento\bin\Debug\net5.0\ref\TempodeumEvento.dll
+D:\DEV\Projetosgit\Csharp\TempodeumEvento\bin\Debug\net5.0\TempodeumEvento.pdb
+D:\DEV\Projetosgit\Csharp\TempodeumEvento\obj\Debug\net5.0\TempodeumEvento.csproj.AssemblyReference.cache
+D:\DEV\Projetosgit\Csharp\TempodeumEvento\obj\Debug\net5.0\TempodeumEvento.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Projetosgit\Csharp\TempodeumEvento\obj\Debug\net5.0\TempodeumEvento.AssemblyInfoInputs.cache
+D:\DEV\Projetosgit\Csharp\TempodeumEvento\obj\Debug\net5.0\TempodeumEvento.AssemblyInfo.cs
+D:\DEV\Projetosgit\Csharp\TempodeumEvento\obj\Debug\net5.0\TempodeumEvento.csproj.CoreCompileInputs.cache
+D:\DEV\Projetosgit\Csharp\TempodeumEvento\obj\Debug\net5.0\TempodeumEvento.dll
+D:\DEV\Projetosgit\Csharp\TempodeumEvento\obj\Debug\net5.0\ref\TempodeumEvento.dll
+D:\DEV\Projetosgit\Csharp\TempodeumEvento\obj\Debug\net5.0\TempodeumEvento.pdb
+D:\DEV\Projetosgit\Csharp\TempodeumEvento\obj\Debug\net5.0\TempodeumEvento.genruntimeconfig.cache

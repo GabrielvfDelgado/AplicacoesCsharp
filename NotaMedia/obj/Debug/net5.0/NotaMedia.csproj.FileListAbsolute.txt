@@ -1,0 +1,16 @@
+D:\DEV\Projetosgit\Csharp\NotaMedia\bin\Debug\net5.0\NotaMedia.exe
+D:\DEV\Projetosgit\Csharp\NotaMedia\bin\Debug\net5.0\NotaMedia.deps.json
+D:\DEV\Projetosgit\Csharp\NotaMedia\bin\Debug\net5.0\NotaMedia.runtimeconfig.json
+D:\DEV\Projetosgit\Csharp\NotaMedia\bin\Debug\net5.0\NotaMedia.runtimeconfig.dev.json
+D:\DEV\Projetosgit\Csharp\NotaMedia\bin\Debug\net5.0\NotaMedia.dll
+D:\DEV\Projetosgit\Csharp\NotaMedia\bin\Debug\net5.0\ref\NotaMedia.dll
+D:\DEV\Projetosgit\Csharp\NotaMedia\bin\Debug\net5.0\NotaMedia.pdb
+D:\DEV\Projetosgit\Csharp\NotaMedia\obj\Debug\net5.0\NotaMedia.csproj.AssemblyReference.cache
+D:\DEV\Projetosgit\Csharp\NotaMedia\obj\Debug\net5.0\NotaMedia.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Projetosgit\Csharp\NotaMedia\obj\Debug\net5.0\NotaMedia.AssemblyInfoInputs.cache
+D:\DEV\Projetosgit\Csharp\NotaMedia\obj\Debug\net5.0\NotaMedia.AssemblyInfo.cs
+D:\DEV\Projetosgit\Csharp\NotaMedia\obj\Debug\net5.0\NotaMedia.csproj.CoreCompileInputs.cache
+D:\DEV\Projetosgit\Csharp\NotaMedia\obj\Debug\net5.0\NotaMedia.dll
+D:\DEV\Projetosgit\Csharp\NotaMedia\obj\Debug\net5.0\ref\NotaMedia.dll
+D:\DEV\Projetosgit\Csharp\NotaMedia\obj\Debug\net5.0\NotaMedia.pdb
+D:\DEV\Projetosgit\Csharp\NotaMedia\obj\Debug\net5.0\NotaMedia.genruntimeconfig.cache
